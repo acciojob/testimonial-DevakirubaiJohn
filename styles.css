@@ -14,7 +14,7 @@ div.container{
 	border:solid silver;
 	background-color:white;
 }
-p.author{
+span.author{
    text-align: right;
 	font-style: italic;
 }
