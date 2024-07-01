@@ -9,7 +9,7 @@ div.container1, div.container {
 	background-color:white;
 }
 
-p.author{
+span.author{
    text-align: right;
    font-style: italic;
 }
