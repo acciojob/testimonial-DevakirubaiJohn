@@ -1,20 +1,15 @@
-/*  your css code here. If applicable */
 div{
 	padding:20px;
 	background-color:#f5f5f5;
 }
 
-div.container1{
+div.container1, div.container {
 	padding:10px;
 	border:solid silver;
 	background-color:white;
 }
-div.container{
-	padding:10px;
-	border:solid silver;
-	background-color:white;
-}
-span.author{
+
+p.author{
    text-align: right;
-	font-style: italic;
+   font-style: italic;
 }
