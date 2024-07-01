@@ -15,6 +15,6 @@ div.container{
 	background-color:white;
 }
 p.author{
-   text-align:left;
-	font-family:italic;
+   text-align: right;
+	font-style: italic;
 }
